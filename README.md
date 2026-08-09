@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=220&section=header&text=Nodecode22&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%2F%20ML%20Engineer%20%7C%20Data%20Enthusiast%20%7C%20Builder&descAlignY=58&descColor=b3f5e8" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=220&section=header&text=Saurabh_Agarwal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%2F%20ML%20Engineer%20%7C%20Data%20Enthusiast%20%7C%20Builder&descAlignY=58&descColor=b3f5e8" width="100%"/>
 </div>
 
 <!-- Intro -->
